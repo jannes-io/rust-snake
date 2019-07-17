@@ -6,7 +6,7 @@ use sdl2::pixels::Color;
 use std::time::Duration;
 
 mod snake;
-use crate::snake::snake::SnakeGame;
+use crate::snake::game::SnakeGame;
 
 const WIN_SIZE: u32 = 640;
 
